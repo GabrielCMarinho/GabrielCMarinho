@@ -17,4 +17,4 @@ I'm a guy who never stops thinking and loves creating solutions.
 - [LinkedIn](https://www.linkedin.com/in/gabrielcmarinho) 
 - [Personal website](https://www.gabrielmarinho.dev) 
 - [Sourcerer](http://sourcerer.io/gabrielcmarinho)
-- [Dev.to](http://dev.to/gabrielcmarinho)
+- [Dev.to](http://dev.to/gabrielmarinho)
